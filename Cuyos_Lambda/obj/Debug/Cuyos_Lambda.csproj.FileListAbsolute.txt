@@ -1,0 +1,11 @@
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\bin\Debug\Cuyos_Lambda.exe.config
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\bin\Debug\Cuyos_Lambda.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\bin\Debug\Cuyos_Lambda.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.frmCafeteria.resources
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.Properties.Resources.resources
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyos_Lambda\obj\Debug\Cuyos_Lambda.exe.config
